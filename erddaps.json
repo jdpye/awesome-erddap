@@ -113,6 +113,12 @@
 		"url": "http://dap.onc.uvic.ca/erddap/",
 		"public": true
 	},
+	{
+		"name": "OTN (Ocean Tracking Network)",
+		"short_name": "OTN",
+		"url": "http://erddap.oceantrack.org/erddap/",
+		"public": true
+	},
     {
 		"name": "",
 		"short_name": "PIFSC",
